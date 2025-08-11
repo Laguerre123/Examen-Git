@@ -5,5 +5,6 @@ echo "<!DOCTYPE html>
   </head>
   <body>
     <h1>Thibaud Philogene</h1>
+  <p>Introduction à Git</p>
   </body>
 </html>" > index.html
