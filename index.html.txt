@@ -4,7 +4,7 @@ echo "<!DOCTYPE html>
     <title>Mon site</title>
   </head>
   <body>
-    <h1>Thibaud Philogene</h1>
+    <h1>Thibaud Philogene– Examen Git</h1>
   <p>Introduction à Git</p>
   </body>
 </html>" > index.html
