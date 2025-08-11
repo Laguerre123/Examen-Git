@@ -1,0 +1,9 @@
+echo "<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mon site</title>
+  </head>
+  <body>
+    <h1>Thibaud Philogene</h1>
+  </body>
+</html>" > index.html
